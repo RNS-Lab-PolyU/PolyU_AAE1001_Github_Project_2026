@@ -45,11 +45,11 @@
 <!-- Student Tasks -->
 ## Student Tasks
 
-### Path Planning Tasks Tasks
+<!-- ### Path Planning Tasks Tasks
 
 <a href="Lecture Notes/Week 9b - Project Tasks 1-3.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
 
-<a href="Lecture Notes/Week 11a - Project Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+<a href="Lecture Notes/Week 11a - Project Additional Tasks.pdf"><strong>Additional Tasks</strong></a> -->
 
 ### README.md Report
 
@@ -59,24 +59,24 @@
 
 <a href="AAE1001 - Peer Assessment_Form.docx"><strong>Peer Assessment Form</strong></a>
 
-<a href="Lecture Notes/Week 11b - Assessment Guideline.pdf"><strong>Assessment Guideline</strong></a>
+<!-- <a href="Lecture Notes/Week 11b - Assessment Guideline.pdf"><strong>Assessment Guideline</strong></a> -->
 
 <!-- CONTACT -->
 ## Deadlines:
 
 ### Project Presentation (in-person, all group members participated): 
-*24 November 2025, Monday 16:30-18:20, PQ306*
+*16 November 2025, Monday 16:30-18:20, Y304*
 
-*25 November 2025, Tuesday 18:50-20:40, PQ305*
+*23 November 2025, Tuesday 18:50-20:40, Y304*
 
-<a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a>
+<!-- <a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a> -->
 
 
 ### Project Report (via Readme): 
-*23:50pm on 30 Nov (Sun).*
+*23:50pm on 28 Nov (Sat).*
 
 ### Peer Assessment Evaluation: 
-*23:50pm on 30 Nov (Sun).*
+*23:50pm on 28 Nov (Sat).*
 
 ## Contact
 
@@ -89,19 +89,18 @@ Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
 **Assistance on Your Project**
 
 *Group 1-3*
-Dr Pneghui XU - xphsean12@163.com
+Dr Liyuan ZHANG - liyuan.zhang@polyu.edu.hk
 
 *Group 4-6*
-Mr Zekun ZHANG - zekun.zhang@connect.polyu.hk
-
-*Group 7-8*
 Mr Di HAI - 23037537R@connect.polyu.hk
 
-*Group 9-10*
-Mr Yidi CHEN - yi-di.chen@connect.polyu.hk
+*Group 7-9*
+Mr Yidi CHEN -yi-di.chen@connect.polyu.hk
 
-*Group 11-12*
-Mr Zhen LYU - zhenn.lyu@connect.polyu.hk
+*Group 10-12*
+Mr Qijie LI - qijie.li@connect.polyu.edu.hk
+
+
 
 
 ## Acknowledgements
