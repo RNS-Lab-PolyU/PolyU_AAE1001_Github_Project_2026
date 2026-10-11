@@ -112,7 +112,7 @@ class AStarPlanner:
 
             # reaching goal
             if current.x == goal_node.x and current.y == goal_node.y:
-                print("Total Trip time required -> ",current.cost )
+                print("Total Trip time required -> ",current.cost, " minutes")
                 goal_node.parent_index = current.parent_index
                 goal_node.cost = current.cost
                 break
