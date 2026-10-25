@@ -11,7 +11,7 @@
 
 *Project Objective: To provide students with opportunities to develop creativity, problem-solving skills and team-work abilities through a group project. During this project, students will get not only the valuable practical experience to use computer programming language to design and develop a path planning algorithm for an aircraft operation from scratch but also practical skills of using online collaborating programming platform to work with group members remotely.*
 
-**Note that the project task is updated, please refer to the latest slide in (Lecture Notes/Slides by Weeks/Week 9 (Second Week)/Second Week - Project tasks (updated).pdf！**
+**Note that the project task is updated, please refer to the latest slide in (Lecture Notes/Slides by Weeks/Week 9 (Second Week)/Second Week - Project tasks (updated).pdf!!**
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
