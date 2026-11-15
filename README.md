@@ -69,7 +69,7 @@
 
 *23 November 2025 , Monday 16:30-18:20, Y304*
 
-<!-- <a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a> -->
+<a href="AAE1001 Group Project Presentation Arrangements.pdf"><strong>Presentation Group Arrangements</strong></a>
 
 
 ### Project Report (via Readme): 
